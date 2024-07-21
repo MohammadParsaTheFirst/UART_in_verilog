@@ -1,0 +1,1 @@
+During this project of Computer Structure and Microprocessors I implemented an Universal Asynchronous Receiver Transmitter (UART) module in Verilog. The UART handles serial communication, including data transmission and reception. Additionally, I created a test module to verify its functionality.
